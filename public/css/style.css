@@ -1,12 +1,26 @@
 header {
     background-color: blue;
-    padding: 15px;
+    padding: 10px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 header h1 {
     color: white;
+    margin: 0;
+}
+nav a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 15px;
 }
 nav ul li{
     display: inline;
@@ -33,9 +47,23 @@ footer {
     text-align: center;
     padding: 15px;
 }
-.pontos-turisticos {
-    width: 45%;
-    float: left;
+/*layout flex*/
+.conteudo {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.pontos-turisticos, .eventos {
+    flex: 1;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    
+}
+.caixa-menuprincipal ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 
