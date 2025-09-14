@@ -8,15 +8,15 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Bruno da Cruz
+- Matricula: 897952
+- Proposta de projeto escolhida: Lugares e Experiências
+- Breve descrição sobre seu projeto: Site que tem o objetivo de apresentar uma visão turística e positiva sobre a cidade de Brumadinho por meio de indicações de lugares/eventos e experiências sobre uma cidade de cultura tao rica.
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![print do CSS puro](public/img/printversaocsspuro.png)
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![print da versao com bootstrap](public/img/printpaginacombootstrap.png)
